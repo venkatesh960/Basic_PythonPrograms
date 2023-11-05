@@ -1,0 +1,5 @@
+print("hello python...")
+print(2+5)
+print(6*5)
+print(6-8)
+print(4/6)
